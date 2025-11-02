@@ -1,4 +1,3 @@
-
 # SnapInk 🎨✨
 
 [![GitHub stars](https://img.shields.io/github/stars/IldySilva/SnapInk.svg)](https://github.com/IldySilva/SnapInk/stargazers)
